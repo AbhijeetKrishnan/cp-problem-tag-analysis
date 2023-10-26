@@ -10,3 +10,4 @@ dependencies:
   - pip:
     - lets-plot >= 3.2.0
     - requests
+    - cairosvg
